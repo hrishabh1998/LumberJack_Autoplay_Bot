@@ -1,3 +1,4 @@
+# LumberJack Autoplay Bot
 
 import autopy as ap
 from collections import deque
